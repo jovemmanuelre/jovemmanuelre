@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jovemmanuelre
-- 👀 I’ve been trying to break into tech, focusing on Data Science.
+- 👀 I’ve been trying to break into tech, focusing on Data Science. I currently work for the PH Government.
 - 🌱 I’m currently learning Git, Tableau, Python, SQL, and KNIME, Jupyter, PyCharm, AWS, for Data Science.
 - 💞️ I’m looking forward to connect and work on Data Science projects!
 - 📫 You may connect with me here or on my social media accounts: LinkedIn @jovermitano or Twitter @JERErmitano.
